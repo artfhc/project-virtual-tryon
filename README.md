@@ -170,6 +170,11 @@ python -m unittest tests/test_utils.py
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
+## References
+
+- [How to Build with Nano Banana - Complete Developer Tutorial](https://dev.to/googleai/how-to-build-with-nano-banana-complete-developer-tutorial-646)
+- [Awesome Nano Banana Images](https://github.com/PicoTrex/Awesome-Nano-Banana-images/blob/main/README_en.md)
+
 ## Acknowledgments
 
 - Google AI for the Gemini 2.0 Flash model
